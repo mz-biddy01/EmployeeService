@@ -1,0 +1,6 @@
+2021-03-29 14:04:18 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+select * from employee [42102-200]
+2021-03-29 14:04:28 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+Select * from employee [42102-200]
